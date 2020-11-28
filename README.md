@@ -1,4 +1,4 @@
-# Project Link :point_down: :point_down: :point_down:
+# Project Url :point_down: :point_down: :point_down:
 
 https://danara88.github.io/RegisterFormAngular-Deployed/register
 
