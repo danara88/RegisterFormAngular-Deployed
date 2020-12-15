@@ -1,31 +1,15 @@
-# Project Url :point_down: :point_down: :point_down:
-
+## Project Url :point_down: :point_down: :point_down:
+This is the deployed project where you can access directly and test the app:
 https://danara88.github.io/RegisterFormAngular-Deployed/register
 
-# AuthReactive
+## What is this web app about :question:
+This is a web register form, which is validated in **real time**. This form can be implemented in web apps that needs an authenticated system. Something that make special this form is that it is not a boring common form such as statics forms; this form has the target of gives a good **user experience**.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.24.
+## What technologies do I use :question:
+Well, I created this app to put in practise some knowledge related with **Angular**, **Nodejs**, **MongoDb** and using **Html 5**. To make this reacted form I use Angular React Forms. Overmore, to commuinicate the backend with frontend I use a **REST API** with nodejs to manage and recolect the data.
 
-## Development server
+## What I learn in this project :question:
+When I was developing this react form, I learn how to use **Angular Rect Forms** in order to make validations in real time; It was a little beat complicated but finally I could implement this functionality.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
