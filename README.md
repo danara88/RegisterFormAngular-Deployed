@@ -11,5 +11,6 @@ Well, I created this app to put in practise some knowledge related with **Angula
 ## What I learn in this project :question:
 When I was developing this react form, I learn how to use **Angular Rect Forms** in order to make validations in real time; It was a little beat complicated but finally I could implement this functionality.
 
+https://github.com/danara88/RegisterFormAngular-Code
 
 
